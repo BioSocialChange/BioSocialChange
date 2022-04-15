@@ -1,0 +1,8 @@
+# BioSocialChange
+
+BioSocialChange is a project to catalog reforms that could make the world a happier, safer, and more prosperous place. The idea is to produce a comprehensive evidence-based list of reforms towards this end that are free of ideological rigidity and sentimentality. The starting point for such an endeavor must be from the perspective of human beings as biological creatures. Our behaviors are not those of rational agents out of a textbook, nor are we inscrutable entities whose behavior is without discenable causes. Humans are driven by incentives, but are also predictably irrational. We are subject to the forces of physical reality, and our minds are a literal part of that physical reality, however badly we may wish to think of ourselves as exempt.
+
+A primary source of inspiration is the work of the early 20th century movement of predominantly female engineers under the euthenics movement, which sought to provide an intellectual counter-weight to the dominant eugenics movment of the time. They were also biodeterminists to a large degree, but instead argued that an approach that emphasized nurture over nature could provide results safer, cheaper, faster, and more reliably. While the use of voluntary genetic therapies is something we are hopeful of, the dark history of the eugenics movement and the powerful arguments in favor of an environmental focus must always be at the front of our minds. And of course, even without any focus on genetics, a purely environment-focused reform agenda could easily steer into the direction of totalitarianism, as plenty of 20th century history has shown.
+
+As such, this list of reforms will keep human freedom and sovereignty as a primary objective.
+
